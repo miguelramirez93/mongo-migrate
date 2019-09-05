@@ -24,7 +24,7 @@ Table of Contents
 
 ## Installation
 ```bash
-go get -v -u github.com/xakep666/mongo-migrate
+go get -v -u github.com/miguelramirez93/mongo-migrate
 ```
 
 ## Usage
